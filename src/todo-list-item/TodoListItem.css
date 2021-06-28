@@ -1,0 +1,19 @@
+.todo-item-container {
+  display: flex;
+}
+
+h3 {
+  margin-right: 16px;
+}
+
+.complete-button {
+  color: white;
+  background-color: green;
+  margin: 4px;
+}
+
+.remove-button {
+  color: white;
+  background-color: red;
+  margin: 4px;
+}
